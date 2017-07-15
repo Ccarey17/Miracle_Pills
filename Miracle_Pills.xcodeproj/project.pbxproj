@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		7F6B48C31F17663700526EC1 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7F6B48C21F17663700526EC1 /* AppDelegate.swift */; };
+		7F121D4E1F18C3D80068923C /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7F6B48C21F17663700526EC1 /* AppDelegate.swift */; };
 		7F6B48C51F17663700526EC1 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7F6B48C41F17663700526EC1 /* ViewController.swift */; };
 		7F6B48C81F17663700526EC1 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7F6B48C61F17663700526EC1 /* Main.storyboard */; };
 		7F6B48CA1F17663700526EC1 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7F6B48C91F17663700526EC1 /* Assets.xcassets */; };
@@ -135,8 +135,8 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				7F121D4E1F18C3D80068923C /* AppDelegate.swift in Sources */,
 				7F6B48C51F17663700526EC1 /* ViewController.swift in Sources */,
-				7F6B48C31F17663700526EC1 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -310,6 +310,7 @@
 				7F6B48D31F17663700526EC1 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
